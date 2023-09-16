@@ -1,0 +1,40 @@
+.fa-plus-circle,
+.fa-minus-circle {
+    cursor: pointer;
+    display: inline-block;
+}
+
+.fa-plus-circle {
+    margin-left: 5px;
+}
+
+.fa-minus-circle {
+    margin-right: 5px;
+}
+
+.table-responsive-sm {
+    max-height: 70vh;
+    overflow: scroll;
+}
+
+.cartContainer{
+    min-height: 90vh;
+    max-width: 80%;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+
+.cartContainer .cartDetails{
+    text-align: center;
+}
+
+
+.userCartProd{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}

@@ -1,0 +1,27 @@
+.signup__image--container
+  {
+    background-image: url(https://res.cloudinary.com/dsi3wgofc/image/upload/v1694835199/hand-holding-mobile-add-to-cart-product-to-purchase-online-with-apps-screen-at-blur-bokeh_gtwxbt.jpg);
+    background-size: cover;
+				height: auto;
+   
+   }
+   
+   
+.lable1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.profile{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.form-style-5{
+	background-color: aquamarine;
+}
+.profile{
+	font-size: 40px;
+	font-weight: bold;
+
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
